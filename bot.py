@@ -8,7 +8,7 @@ from apscheduler.triggers.cron import CronTrigger
 
 # Вставь сюда свой токен бота
 API_TOKEN = '7108172193:AAHiG9HxVytQS25FRCAScizjkVoOSEefamM'
-YOUR_CHAT_ID = 363832515  # <-- Подставь сюда свой настоящий chat_id
+YOUR_CHAT_ID = 363832515 # <-- Подставь сюда свой настоящий chat_id
 
 # Включаем логирование
 logging.basicConfig(level=logging.INFO)
